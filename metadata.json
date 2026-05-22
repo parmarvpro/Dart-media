@@ -1,0 +1,6 @@
+{
+  "name": "Dart Media Landing Page",
+  "description": "A high-end futuristic, animated landing page for Dart Media – a premium real estate growth system with rotating 3D HUD holograms, real-time drone orbits, and interactive AI automation pipelines.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
